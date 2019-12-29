@@ -31,7 +31,7 @@ $ ansible-playbook -i inventory playbook.yml
 This playbook will install nginx and deploy the helloworld app in Nginx.
 To verify paste the public ip address of ec2 instnace in bowser and will get hello world page.
 
-#Docker
+# Docker
 
 Step 1: Create Docker Image
 

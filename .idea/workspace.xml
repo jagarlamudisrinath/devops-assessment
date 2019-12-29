@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f78a81-f213-49bb-84d5-f23bd90606ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lvl2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lvl3/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lvl1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lvl1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lvl3/terraform/provider.tf" beforeDir="false" afterPath="$PROJECT_DIR$/Lvl3/terraform/provider.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +32,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TF_FMT" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lvl3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lvl3" />
+      <recent name="$PROJECT_DIR$/Lvl2" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -82,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577642073972</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updating lvl1 redme file with docker and ansible">
+      <created>1577643155743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577643155743</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -90,16 +106,17 @@
     <MESSAGE value="level upload" />
     <MESSAGE value="uploading level and level files" />
     <MESSAGE value="changing spaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing spaces" />
+    <MESSAGE value="updating lvl1 redme file with docker and ansible" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating lvl1 redme file with docker and ansible" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2" timestamp="1577642073879">
+    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2" timestamp="1577643155633">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1577642073879" />
-    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577643124066">
+    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1577643155633" />
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577643165078">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1577643124066" />
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1577643165078" />
   </component>
 </project>
