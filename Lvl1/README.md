@@ -45,15 +45,15 @@ $docker images
 
 login to docker hub and push docker image.
 
-$docker login --username=<DOCKER USERNAME>
+$docker login --username="DOCKER USERNAME"
 
-$docker tag <DOCKER IMAGE ID> <DOCKER USERNAME>/nginx:nginxserver
+$docker tag "DOCKER IMAGE ID" "DOCKER USERNAME"/nginx:nginxserver
 
-$docker push <DOCKER USERNAME>/mynginx
+$docker push "DOCKER USERNAME"/mynginx
 
 Create containers using docker compose
 
- update docker image ID in docker compose file as <DOCKER USERNAME>/nginx:nginxserver
+ update docker image ID in docker compose file as "DOCKER USERNAME"/nginx:nginxserver
 
 To start the container.
 
