@@ -75,23 +75,31 @@
       <option name="project" value="LOCAL" />
       <updated>1577641968353</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changing spaces">
+      <created>1577642073972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577642073972</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test update" />
     <MESSAGE value="level upload" />
     <MESSAGE value="uploading level and level files" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploading level and level files" />
+    <MESSAGE value="changing spaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing spaces" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2" timestamp="1577641968273">
+    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2" timestamp="1577642073879">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1577641968273" />
-    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577641973878">
+    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1577642073879" />
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577643124066">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1577641973878" />
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1577643124066" />
   </component>
 </project>
