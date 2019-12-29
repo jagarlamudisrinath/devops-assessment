@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f78a81-f213-49bb-84d5-f23bd90606ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lvl1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lvl1/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +54,44 @@
       <option name="presentableId" value="Default" />
       <updated>1577641761735</updated>
     </task>
+    <task id="LOCAL-00001" summary="test update">
+      <created>1577641864576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577641864576</updated>
+    </task>
+    <task id="LOCAL-00002" summary="level upload">
+      <created>1577641897222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577641897222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="uploading level and level files">
+      <created>1577641968353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577641968353</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test update" />
+    <MESSAGE value="level upload" />
+    <MESSAGE value="uploading level and level files" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploading level and level files" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2" timestamp="1577641897129">
+    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2" timestamp="1577641968273">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1577641897129" />
-    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577641903745">
+    <state x="417" y="59" width="822" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1577641968273" />
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577641973878">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1577641903745" />
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1577641973878" />
   </component>
 </project>
